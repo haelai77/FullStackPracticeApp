@@ -1,0 +1,2 @@
+# FullStackPracticeApp
+MongoDB + Nextjs + AuthJs
